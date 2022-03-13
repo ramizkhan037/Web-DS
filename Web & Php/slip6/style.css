@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Redressed&family=Roboto+Mono&family=Roboto+Serif&display=swap");
+
+/* font-family: 'Redressed', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Serif', sans-serif; */
+
+.red {
+  color: red;
+  font-size: 20px;
+  font-family: "Roboto Serif", sans-serif;
+}
+.green {
+  color: green;
+  font-size: 12px;
+  font-family: "Roboto Mono", monospace;
+}
+.orange {
+  color: orange;
+  font-size: 30px;
+  font-family: "Redressed", cursive;
+}
+.blue {
+  color: blue;
+
+  font-family: "Roboto Mono", monospace;
+}
+.l-1 {
+  color: aqua;
+}
+.l-2 {
+  color: darkorchid;
+}
